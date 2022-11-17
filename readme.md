@@ -1,4 +1,4 @@
-![Logo-nav](https://user-images.githubusercontent.com/109285740/201529843-5715a773-7dd7-47b3-87b4-0fb332133ebe.png)
+![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
 # Kalvium Lab | Superwars Stage 5
 
@@ -42,6 +42,6 @@ Hurray! we're just one step away from completion. Add the logic of `totalScore()
 
 ## Expected Output
 
-![Superwars](doc/superwars-complete.png)
+![Superwars](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/superwars-oops-part2.png)
 
 Happy Coding Kalvium ❤️
