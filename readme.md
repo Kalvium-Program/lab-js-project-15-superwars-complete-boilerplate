@@ -10,19 +10,16 @@ Lucus always loves protagonists like most of us. But Dustin is quite crazy, he l
 
 Okay, let us explain. They are going to facilitate the ultimate war between Super Heroes and Super Villains. As they are new to these technologies, they need a **you** to help them build this game.
 
-## Starter code
+### How to approach a lab:
 
-The `src/app.js` contains an array of 20 Super Heroes and Super-Villains. We are talking about the array of 20 _strings_ containing each Super Heroes and Super-Villains names. Here is one example of how the data is displayed:
+Before starting have a look through the link below - to get an idea as how to approach the lab.
 
-```javascript
-[
-    "Spiderman"
-]
-```
+[How to approach a lab](https://docs.google.com/document/d/1SZ2Pryj6kAJj63wdB2_xVJgQHq6GddeZQ3nqDXYeaBA/edit?usp=sharing)
 
-### Tests
+Along with a test page, you will also have a webpage -- which will display all your frontend work.
 
-Open the `SpecRunner.html` file on your browser and start coding to pass the test. Remember to focus on one test at a time and read carefully the instructions to understand what you have to do.
+You can toggle between the webpage and testpage - by clicking on the respective buttons.
+
 
 ### Progression 1: Clash of clans
 
@@ -38,7 +35,7 @@ Check whether there is a winner by adding your logic to `checkWin()` method. If 
 
 ### Progression 4: Unity is strength
 
-Hurray! we're just one step away from completion. Add the logic of `totalScore()` method, such that it should _return total strength_ of the team, where team type is passed as parameter.
+Hurray! we're just one step away from completion. Add the logic of `totalStrength()` method, such that it should _return total strength_ of the team, where team type is passed as parameter.
 
 ## Expected Output
 
